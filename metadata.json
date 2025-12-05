@@ -1,0 +1,7 @@
+{
+  "name": "🎄Christmas tree for Afa",
+  "description": "A festive interactive WebGL experience featuring a procedural particle Christmas tree, falling snow, and retro-digital aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
